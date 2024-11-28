@@ -1,1 +1,1 @@
-select current_date() as hoje;
+select current_date() as hoje, 'teste' as campo;
